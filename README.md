@@ -1,16 +1,29 @@
-## Hi there 👋
+# ᚾ NIFL-VOID ᚾ
 
-<!--
-**Nifl-Void/Nifl-Void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Forging the unseen. Bridging the abyss."**
 
-Here are some ideas to get you started:
+Welcome to the digital forge of **By the Elders**. We are here to reclaim the core of computing from the shadows of surveillance and the noise of advertisements. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ The Doctrine
+In the void, we follow a strict code: **No tracking. No ads. Absolute sovereignty.** Our goal is to empower the user with a system that feels familiar but operates on a foundation of total freedom.
+
+### 🏗️ The Great Architecture: NIFL-OS
+We do not build a monolith. We forge fragments. Each repository here is a modular "rune" that will eventually assemble into **NIFL-OS**.
+
+- **Phase I (Current):** Modular ritual tools & UI fragments (e.g., *Nifl-Chronos*).
+- **Phase II:** Secure communication and data flow via the **Bifröst Protocol**.
+- **Phase III:** The assembly of the sovereign Kernel.
+
+### 🌌 Ecosystem Integration
+Our architecture is designed for a world where privacy is the standard, supporting spirits like:
+* **Proton.me** (Encrypted Identity)
+* **Brave / Librewolf** (Clean Navigation)
+* **VLC / Signal** (Unfiltered Utility)
+
+---
+
+**[ ᚦ ] Root Access:** `nifl.root@proton.me`
+**[ 🏢 ] Forge:** `By the Elders`
+
+---
+*“Heimdall watches the bridge. We build what crosses it.”*
