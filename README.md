@@ -4,7 +4,8 @@
 
 Welcome to the digital forge of **By the Elders**. We are here to reclaim the core of computing from the shadows of surveillance and the noise of advertisements. 
 
-**Test - Nifl-Links** https://nifl-void.github.io/Nifl-Pulse/
+**Test - Nifl-Link old** https://nifl-void.github.io/Nifl-Pulse/
+**Test - Nifl-Link new beta** https://nifl-void.github.io/Nifl-WebOs/
 
 ---
 
